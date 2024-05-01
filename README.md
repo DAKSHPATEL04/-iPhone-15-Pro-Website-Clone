@@ -43,4 +43,7 @@ npm install
 
 npm start
 
----
+Click this link:
+--------------------------------------------------------------------
+https://iphone-15-pro-website-clone.netlify.app/
+
